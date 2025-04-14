@@ -2,9 +2,9 @@
 
 https://github.com/user-attachments/assets/dc71d2fa-866b-48a9-be56-54338c14e2a4
 
-## shadow_detection_dataset
+## Dataset
 
-### SBU dataset (Object Detection)
+### SBU (Object Detection)
 
 Download : <a href="https://drive.google.com/file/d/1GDwTaEXBFD4fGiIRLKu9GnE8zHlfsPob/view?usp=drive_link">Google Drive</a>
 
@@ -20,7 +20,7 @@ Labels:
 </pre>
 
 
-### WSRD dataset (Object Detection)
+### WSRD (Object Detection)
 
 Download : <a href="https://drive.google.com/file/d/1S7TbYw21saXgmdTJa3r5u3auM_UMB9Lj/view?usp=drive_link">Google Drive</a>
 
